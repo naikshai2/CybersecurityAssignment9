@@ -12,7 +12,8 @@ I only used Dionaea and I tried to used eleastic honey but that results in some 
   The following picture describes all the attacks and a ittle more break down of what happened. Also the session.json file is in the repo right [here](session.json)
 
   <img src='Summary.png' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-  # Other Questions
+
+# Other Questions
   
   I was wondering why I had some many ports open when in the tutorial there were only three ports open and how can I reduce my number of ports or was the tutorial just showing a snipet?
   
