@@ -15,5 +15,5 @@ I only used Dionaea and I tried to used eleastic honey but that results in some 
 
 # Other Questions
   
-  I was wondering why I had some many ports open when in the tutorial there were only three ports open and how can I reduce my number of ports or was the tutorial just showing a snipet?
+  I was wondering why I had so many ports open when in the tutorial there were only three ports open and how can I reduce my number of ports or was the tutorial just showing a snipet?
   
