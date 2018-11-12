@@ -1,6 +1,6 @@
 # Week 9 - Honey Pot
 
-Time spent: **10** hours spent in total 
+Time spent: **4** hours spent in total 
 
 # Honey Pot(s) Used
 I only used Dionaea and I tried to used eleastic honey but that results in some issues as described below.
